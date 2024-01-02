@@ -1,9 +1,10 @@
 <p align="center">
   <img src="https://codefling.com/uploads/monthly_2023_03/image.thumb.png.276343ad1b15a658368a7ae6e252172f.png" />
 </p><p align="center">
-  <a href="https://github.com/CarbonCommunity/Carbon.Core/releases/tag/edge_build"><img src="https://github.com/Carbon-Modding/Carbon.Core/actions/workflows/edge-build.yml/badge.svg" /></a>
-  <a href="https://github.com/CarbonCommunity/Carbon.Core/releases/tag/preview_build"><img src="https://github.com/Carbon-Modding/Carbon.Core/actions/workflows/preview-build.yml/badge.svg" /></a>
-  <a href="https://github.com/CarbonCommunity/Carbon.Core/releases/latest"><img src="https://github.com/Carbon-Modding/Carbon.Core/actions/workflows/production-build.yml/badge.svg" /></a>
+  <a href="https://github.com/CarbonCommunity/Carbon.Core/releases/tag/edge_build"><img src="https://github.com/CarbonCommunity/Carbon.Core/actions/workflows/edge-build.yml/badge.svg" /></a>
+  <a href="https://github.com/CarbonCommunity/Carbon.Core/releases/tag/preview_build"><img src="https://github.com/CarbonCommunity/Carbon.Core/actions/workflows/preview-build.yml/badge.svg" /></a>
+  <a href="https://github.com/CarbonCommunity/Carbon.Core/releases/latest"><img src="https://github.com/CarbonCommunity/Carbon.Core/actions/workflows/production-build.yml/badge.svg" /></a>
+  <a href="https://github.com/CarbonCommunity/Carbon.Core/releases/tag/client_build"><img src="https://github.com/CarbonCommunity/Carbon.Core/actions/workflows/client-build.yml/badge.svg" /></a>
   <br />
     <a href="https://github.com/CarbonCommunity/Carbon.Core/releases/tag/rustbeta_staging_build"><img src="https://github.com/Carbon-Modding/Carbon.Core/actions/workflows/rust-staging-build.yml/badge.svg" /></a>
     <a href="https://github.com/CarbonCommunity/Carbon.Core/releases/tag/rustbeta_aux01_build"><img src="https://github.com/Carbon-Modding/Carbon.Core/actions/workflows/rust-aux01-build.yml/badge.svg" /></a>
