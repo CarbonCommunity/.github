@@ -2,9 +2,6 @@
 ![Carbon Dark Logo](./press/carbonlogo_b.png#gh-light-mode-only)
 
 <p align="center">
-  <img src="https://carbonmod.gg/assets/media/carbonlogo_w.png" />
-</p>
-<p align="center">
   <a href="https://github.com/CarbonCommunity/Carbon.Core/releases/tag/edge_build"><img src="https://github.com/CarbonCommunity/Carbon.Core/actions/workflows/edge-build.yml/badge.svg" /></a>
   <a href="https://github.com/CarbonCommunity/Carbon.Core/releases/tag/preview_build"><img src="https://github.com/CarbonCommunity/Carbon.Core/actions/workflows/preview-build.yml/badge.svg" /></a>
   <a href="https://github.com/CarbonCommunity/Carbon.Core/releases/latest"><img src="https://github.com/CarbonCommunity/Carbon.Core/actions/workflows/production-build.yml/badge.svg" /></a>
