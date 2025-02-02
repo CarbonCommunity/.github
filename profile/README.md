@@ -1,5 +1,5 @@
-![Carbon Light Logo](./press/carbonlogo_w.png#gh-dark-mode-only)
-![Carbon Dark Logo](./press/carbonlogo_b.png#gh-light-mode-only)
+![Carbon Light Logo](https://raw.githubusercontent.com/CarbonCommunity/.github/refs/heads/main/profile/press/carbonlogo_w.png#gh-dark-mode-only)
+![Carbon Dark Logo](https://raw.githubusercontent.com/CarbonCommunity/.github/refs/heads/main/profile/press/carbonlogo_b.png#gh-light-mode-only)
 
 <p align="center">
   <a href="https://github.com/CarbonCommunity/Carbon.Core/releases/tag/edge_build"><img src="https://github.com/CarbonCommunity/Carbon.Core/actions/workflows/edge-build.yml/badge.svg" /></a>
